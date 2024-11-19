@@ -5,6 +5,7 @@ export interface Project {
   technologies: string[];
   imageUrl: string;
   githubUrl: string;
+  liveUrl: string;
 }
 
 export interface SocialLinks {
